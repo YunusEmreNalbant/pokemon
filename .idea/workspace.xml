@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="264cd2d2-2034-403a-956f-af349ef9b11c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/pokemonActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/pokemonListReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/pokemonActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/pokemonActions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Pokemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Pokemon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/PokemonList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/PokemonList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/rootReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +40,17 @@
       <workItem from="1611926313872" duration="4000" />
       <workItem from="1611926362488" duration="3323000" />
       <workItem from="1611944181837" duration="643000" />
-      <workItem from="1611998893954" duration="4411000" />
+      <workItem from="1611998893954" duration="8819000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2596" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612005563872">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2596" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612005563872" />
   </component>
 </project>
