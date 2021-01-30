@@ -2,6 +2,7 @@ import React, {useEffect} from 'react';
 import {useDispatch, useSelector} from "react-redux";
 import {getPokemon} from "../actions/pokemonActions";
 import _ from "lodash";
+import CircularProgress from '@material-ui/core/CircularProgress';
 
 const Pokemon = (props) => {
     const pokemonName = props.match.params.pokemon;
@@ -19,10 +20,12 @@ const Pokemon = (props) => {
                 <div className={"pokemon-wrapper"}>
                     <div className={"item"}>
                         <h1>Spires</h1>
-                        <img src={pokeData.sprites.front_default} alt={""} />
+
+                        <img src={pokeData.sprites.front_default } alt={""} />
                         <img src={pokeData.sprites.back_default} alt={""} />
                         <img src={pokeData.sprites.front_shiny} alt={""} />
                         <img src={pokeData.sprites.back_shiny} alt={""} />
+
                     </div>
                     <div className={"item"}>
                         <h1>Stats</h1>
@@ -41,7 +44,7 @@ const Pokemon = (props) => {
         }
 
         if(pokemonState.loading)
-            return <p>yükleniyor....</p>;
+            return                        <CircularProgress color="secondary" />;
 
         if (pokemonState.errorMsg !== "")
             return <p>{pokemonState.errorMsg}</p>
