@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="264cd2d2-2034-403a-956f-af349ef9b11c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/actions/authAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pokemon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/authReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pokemon-redux.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pokemon-redux.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/pokemonActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/pokemonActions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Pokemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Pokemon.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/PokemonList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/PokemonList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/PokemonMultipleReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/PokemonMultipleReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/pokemonListReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/pokemonListReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +56,8 @@
       <workItem from="1611926362488" duration="3323000" />
       <workItem from="1611944181837" duration="643000" />
       <workItem from="1611998893954" duration="11274000" />
+      <workItem from="1612174322421" duration="766000" />
+      <workItem from="1612255327242" duration="6393000" />
     </task>
     <servers />
   </component>
@@ -49,9 +65,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2596" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612005563872">
+    <state x="2596" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612262379704">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2596" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612005563872" />
+    <state x="2596" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612262379704" />
   </component>
 </project>
